@@ -1,0 +1,6 @@
+
+.no-border-style{
+    border-style: none;
+    overflow: visible !important;
+    border-collapse: collapse !important;
+}
